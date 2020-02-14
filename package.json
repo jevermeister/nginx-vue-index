@@ -1,0 +1,20 @@
+{
+  "name": "vueindex",
+  "version": "1.0.0",
+  "description": "Uber fancy directory listing/browsing for nginx using vue.js",
+  "main": "app.js",
+  "repository": {
+    "url": "github.com/jevermeister/nginx-vue-index",
+    "type": "git"
+  },
+  "author": "Sarim Khan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "bootstrap": "~3.3.5",
+    "humanize-plus": "^1.8.2",
+    "moment": "^2.17.1",
+    "vue": "^2.1.6",
+    "vue-moment": "brockpetrie/vue-moment#v1.0"
+  }
+}
