@@ -47,9 +47,9 @@ Clone the repo to document root and run bower.
 
 ```Shell
 cd /Volumes/Storage
-git clone https://github.com/sarim/nginx-vue-index vueindex
+git clone https://github.com/jevermeister/nginx-vue-index vueindex
 cd vueindex
-bower install
+yarn install
 ```
 
 Now nagivate to [localhost:8080](http://localhost:8080) and you'll see directory listing of `/Volumes/Storage`
