@@ -56,4 +56,4 @@ Now nagivate to [localhost:8080](http://localhost:8080) and you'll see directory
 
 ## Requirements
 * **nginx**: Though i'm using nginx to serve the app and `nginx autoindex` module's json listing to provide data, the app has no hard requirement to nginx. App will run as long it gets json data in same format.
-* **bower**: for installing libraries.
+* **yarn**: for installing libraries.
